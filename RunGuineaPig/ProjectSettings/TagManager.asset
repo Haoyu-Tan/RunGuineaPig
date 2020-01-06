@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Selectable
+  - Button
+  - Stop
+  - Turn
+  - Wall
+  - Gp
+  - Grid
+  - Table
+  - Snake
+  - Roof
   layers:
   - Default
   - TransparentFX
