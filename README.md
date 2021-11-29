@@ -3,6 +3,7 @@ A 3D Unity game created by Haoyu Tan and Wenjie Zhang. For the purpose of this p
 
 ## How to Run
 1. For MacOS, Click and run the **RunGuineaPig.app** inside **./RunGuineaPig** Folder
+2. For Windows, Click and run the **RunGuineaPig.exe** inside **./RunGuineaPig/GameWinVer** Folder
 
 ## Images
 <img src="CoverImages/1.jpg" width="500" height="300">
