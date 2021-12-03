@@ -1,5 +1,5 @@
 # RunGuineaPig
-A 3D Unity game created by Haoyu Tan and Wenjie Zhang. For the purpose of this project, everything use in the game are original.
+A 3D Unity game created by Haoyu Tan and Wenjie Zhang. For the purpose of this project, all assets(include music) used in the game are original.
 
 ## How to Run
 1. For MacOS, Click and run the **RunGuineaPig.app** inside **./RunGuineaPig** Folder
